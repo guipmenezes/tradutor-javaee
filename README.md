@@ -9,3 +9,7 @@
 * Bootstrap 5.3 (Para adicionar o CSS nas páginas HTML e JSP)
 * Servidor: Apache Tomcat 9.0
 * Testes funcionais: Selenium
+
+```java
+List<Code> listCode = new ArrayList<>();
+```
